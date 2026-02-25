@@ -1,6 +1,8 @@
-### Correlation between societal and environmental impacts in British Columbia with following opioid mortalities and hospitalizations
+### Monetary Tightening and Opioid-Related Harms in Canada: A Province-Quarter Analysis of Deaths and Hospitalizations (2016–2025)
 
-- This project aims to examine a multitude of datasets to examine whether major societal and environmental shocks in British Columbia are associated with changes in opioid-related harms over time. Using Quarterly opioid toxicity deaths and opioid-related hospitalizations (2016Q1-2025Q2), we are attempting to create shock indicators from COVID-19 interventions and environmental exposure measures (specifally extreme temperature and wildfire smoke), then merge them into a single quarterly dataset to explore whether higher shock periods align with increases in opioid harms. 
+# Project Overview
+
+This project investigates whether rapid Bank of Canada interest rate hikes (“monetary tightening shocks”) are associated with subsequent increases in opioid-related harms across Canadian provinces. Using a province-by-quarter dataset from 2016Q1 to 2025Q2, we will analyze opioid toxicity deaths and opioid-related hospitalizations and test whether these outcomes tend to rise in the 1–2 quarters following major rate increases. Our current focus is building a clean, analysis-ready panel dataset by standardizing quarterly opioid outcomes by province, constructing quarterly interest-rate shock variables (including lagged versions), and preparing the merged dataset for statistical analysis and visualization.
 
 This project is currently a work in progress and is done under Youreka Canada.
 
